@@ -1,5 +1,6 @@
 # MacMediaTP
 Mac Media Plugin for Touch Portal
+Currently only playPause key works. unsure if i will add more later or not. i just wanted this specific key.
 
 
 # AFTER YOU IMPORT THE PLUGIN YOU HAVE TO OPEN TERMINAL AND NAVIGATE TO THE ~/Documents/TouchPortal/plugins/MacMediaPlugin folder and run "chmod +x macmediaplugin" AND THEN RESTART THE PLUGIN IN TOUCH PORTAL FOR IT TO WORK. 
